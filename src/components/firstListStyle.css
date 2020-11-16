@@ -1,0 +1,16 @@
+.subBlock{
+    position: relative;
+
+}
+.addMainBtn{
+    height: 40px;
+    width: 120px;
+    position: absolute;
+    top: 0;
+    right: -120px;
+    margin: 0;
+    transition: .5s;
+}
+.addMainBtn:hover{
+    background: rgb(86, 221, 255);
+}
